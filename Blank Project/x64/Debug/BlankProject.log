@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Coursework.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\Blank Project\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\Blank Project\Renderer.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Frustum.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Plane.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BlankProject.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Coursework.exe

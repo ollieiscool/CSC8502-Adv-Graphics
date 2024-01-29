@@ -1,0 +1,8 @@
+﻿  SceneNode.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\SceneNode.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  nclgl.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\nclgl.lib

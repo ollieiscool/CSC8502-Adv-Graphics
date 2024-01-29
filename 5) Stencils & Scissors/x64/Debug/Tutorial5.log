@@ -1,0 +1,8 @@
+﻿  Renderer.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(43,91): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(43,69): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(43,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(43,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Tutorial5.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Tutorial 05 - Scissors and Stencils.exe

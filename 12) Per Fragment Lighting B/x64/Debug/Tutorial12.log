@@ -1,0 +1,20 @@
+﻿  Renderer.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Light.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Light.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Camera.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\Camera.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\HeightMap.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\nclgl\HeightMap.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Tutorial12.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\12) Per Fragment Lighting B\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(SOIL.obj)' or at ''; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_helper.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Tutorial12.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Tutorial 12 - Real-time Lighting B.exe

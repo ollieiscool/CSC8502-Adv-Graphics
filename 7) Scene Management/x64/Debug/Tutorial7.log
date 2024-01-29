@@ -1,0 +1,5 @@
+﻿nclgl.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(SOIL.obj)' or at ''; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_helper.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Tutorial7.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Tutorial 07 - Scene Management.exe

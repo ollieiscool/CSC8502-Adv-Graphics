@@ -1,0 +1,4 @@
+﻿  Renderer.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\4) Depth & Transparency\Renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\4) Depth & Transparency\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Tutorial4.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Tutorial 04 - Depth and Transparency.exe

@@ -1,0 +1,7 @@
+﻿  Renderer.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\3) Texturing\Renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\3) Texturing\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  tutorial3.cpp
+H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\3) Texturing\Renderer.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Tutorial3.vcxproj -> H:\Uni Work\Advanced Graphics for Games\CSC8502 2022\x64\Debug\Tutorial 03 - Texturing.exe
